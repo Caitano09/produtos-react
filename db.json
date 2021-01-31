@@ -1,0 +1,38 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabão",
+      "categoriaId": "1"
+    },
+    {
+      "id": 2,
+      "produto": "Detergente",
+      "categoriaId": 1
+    },
+    {
+      "id": 3,
+      "produto": "Bolacha",
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "produto": "testando",
+      "categoriaId": "3"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "categoria": "teste",
+      "id": 3
+    }
+  ]
+}
